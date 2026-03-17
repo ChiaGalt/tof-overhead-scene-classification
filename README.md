@@ -60,3 +60,39 @@ docs/       -> diagrams and architecture figures
 examples/   -> sample synthetic inputs
 notebooks/  -> optional exploratory notebook
 results/    -> demo outputs
+```
+
+
+## Example Use Cases
+
+This kind of pipeline is relevant for:
+
+* indoor occupancy monitoring
+* overhead scene understanding
+* lightweight embedded AI pipelines
+* real-time point cloud classification
+
+## Technologies
+
+* Python
+* NumPy
+* scikit-learn
+* Matplotlib
+* Jupyter Notebook
+
+## Future Extensions
+
+Possible future developments include:
+
+* deep learning on point clouds
+* temporal tracking across frames
+* embedded deployment
+* optimized inference for edge devices
+
+## Disclaimer
+
+This repository is a **public, non-confidential, educational representation** of a 3D scene classification workflow.
+It is designed to showcase engineering and machine learning skills without disclosing protected project details.
+
+
+
